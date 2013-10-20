@@ -1,0 +1,3 @@
+package MyDummyClass;
+
+1;
